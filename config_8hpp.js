@@ -15,6 +15,7 @@ var config_8hpp =
     [ "LLFIO_LOGGING_LEVEL", "group__config.html#gaf958c6b17b345d3b84043bf7352451f2", null ],
     [ "LLFIO_LOGGING_MEMORY", "group__config.html#ga2e45ede29ed7b2aa06eb19aff2485541", null ],
     [ "LLFIO_MAKE_FREE_FUNCTION", "config_8hpp.html#aa96417d97962da23b27d237508a58646", null ],
+    [ "LLFIO_NODISCARD", "config_8hpp.html#adb72eb2d002d482f9c9be5505a7ab2ae", null ],
     [ "LLFIO_TEMPLATE", "config_8hpp.html#a4de8a527746757126bdb1635b9a2a892", null ],
     [ "LLFIO_TEXPR", "config_8hpp.html#ae0ffcd967fa2fb3f8acaf39cf7b75d8d", null ],
     [ "LLFIO_THREAD_LOCAL", "config_8hpp.html#a1e5f2d817ba0955e319af287e5dd924b", null ],
@@ -28,9 +29,10 @@ var config_8hpp =
     [ "LLFIO_V2_NAMESPACE_END", "group__config.html#ga84df5d479525cd6b58f873c2f9869b22", null ],
     [ "LLFIO_V2_NAMESPACE_EXPORT_BEGIN", "group__config.html#gab2f82803f0ce479a2993d3b7696db8d3", null ],
     [ "dword", "config_8hpp.html#a79085acc20a53afe38d31c1af948301d", null ],
+    [ "function_ptr", "config_8hpp.html#a23358ae319d76dd1149a26b04b17796a", null ],
     [ "handle", "config_8hpp.html#af65fb3311b32b8757c3b7ebdd045afe9", null ],
-    [ "emplace_function_ptr", "config_8hpp.html#ace72a598b9cabfc3d6f6760895e893fd", null ],
-    [ "LLFIO_TEMPLATE", "config_8hpp.html#a02c02d05e24d34c25324c192df11c0b4", null ],
+    [ "socket", "config_8hpp.html#a0174f0c077863b3cd03b1b73c5e8a997", null ],
+    [ "spinlock", "config_8hpp.html#a138a48536b1700db01f10e8a371d0a4f", null ],
     [ "LLFIO_TEMPLATE", "config_8hpp.html#a77c52ccdc38be135a374dbb4a7d1d466", null ],
-    [ "make_function_ptr", "config_8hpp.html#a4369189d04a952a93cf182f2c7390412", null ]
+    [ "LLFIO_TEMPLATE", "config_8hpp.html#a02c02d05e24d34c25324c192df11c0b4", null ]
 ];

@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['async_5ffile_5fhandle',['async_file_handle',['../classllfio__v2__xxx_1_1async__file__handle.html',1,'llfio_v2_xxx']]],
-  ['atomic_5fappend',['atomic_append',['../classllfio__v2__xxx_1_1algorithm_1_1shared__fs__mutex_1_1atomic__append.html',1,'llfio_v2_xxx::algorithm::shared_fs_mutex']]],
-  ['awaitable',['awaitable',['../classllfio__v2__xxx_1_1async__file__handle_1_1awaitable.html',1,'llfio_v2_xxx::async_file_handle']]],
-  ['awaitable_5fpost_5fto_5fself',['awaitable_post_to_self',['../structllfio__v2__xxx_1_1io__service_1_1awaitable__post__to__self.html',1,'llfio_v2_xxx::io_service']]]
+  ['address_861',['address',['../classllfio__v2__xxx_1_1ip_1_1address.html',1,'llfio_v2_xxx::ip']]],
+  ['address_5fv4_862',['address_v4',['../classllfio__v2__xxx_1_1ip_1_1address__v4.html',1,'llfio_v2_xxx::ip']]],
+  ['address_5fv6_863',['address_v6',['../classllfio__v2__xxx_1_1ip_1_1address__v6.html',1,'llfio_v2_xxx::ip']]],
+  ['atomic_5fappend_864',['atomic_append',['../classllfio__v2__xxx_1_1algorithm_1_1shared__fs__mutex_1_1atomic__append.html',1,'llfio_v2_xxx::algorithm::shared_fs_mutex']]],
+  ['awaitable_865',['awaitable',['../structllfio__v2__xxx_1_1byte__io__multiplexer_1_1awaitable.html',1,'llfio_v2_xxx::byte_io_multiplexer']]],
+  ['awaitable_5fhandle_866',['awaitable_handle',['../classllfio__v2__xxx_1_1awaitable__handle.html',1,'llfio_v2_xxx']]]
 ];

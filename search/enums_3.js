@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mode',['mode',['../classllfio__v2__xxx_1_1handle.html#aa3930273a2d4cabbac309e0b75701dca',1,'llfio_v2_xxx::handle']]]
+  ['io_5foperation_5fstate_5ftype_1675',['io_operation_state_type',['../namespacellfio__v2__xxx.html#a8884e1fc12d34aeaa428539bf6298745',1,'llfio_v2_xxx']]]
 ];
